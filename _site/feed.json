@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Heather Yang",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "PhD candidate, MIT Sloan",
+    "icon": "http://localhost:4000/assets/images/icon-512.png",
+    "favicon": "http://localhost:4000/favicon.ico",
+    "expired": false,
+    "items": [
+    
+    ]
+}

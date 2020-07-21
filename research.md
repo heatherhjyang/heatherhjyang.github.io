@@ -6,7 +6,7 @@ title: Research
 ### Published articles
 
 
-* [Moore, D. A., Smith, S. A., Minster, A., Mellers, B., Ungar, L. H., Tetlock, P., **Yang, H.**, & Tenney, L. (2016). Confidence Calibration in a Multiyear Geopolitical Forecasting Competition. _Management Science_, published online: August 22, 2016, http://dx.doi.org/10.1287/mnsc.2016.2525](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3643605)
+* [Moore, D. A., Smith, S. A., Minster, A., Mellers, B., Ungar, L. H., Tetlock, P., **Yang, H.**, & Tenney, E. R. (2016). Confidence calibration in a multiyear geopolitical forecasting competition. _Management Science_, published online: August 22, 2016, http://dx.doi.org/10.1287/mnsc.2016.2525](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3643605)
 	* [Supplementary materials](https://osf.io/ecmk6/)
 
 
@@ -15,6 +15,5 @@ title: Research
 
 ### Manuscripts in preparation
 
-* **Yang, H.**, & Richardson Gosline, R. Social Robot Anxiety: Perceived asymmetry in predictions of advice taking and seeking from algorithmic versus human advisors. (Manuscript drafted, ten experiments)
+* **Yang, H.**, & Richardson Gosline, R. Deliberative vs. intuitive thinking precludes algorithmic aversion. (Manuscript drafted, eleven studies)
 * **Yang, H.** “Yes, sir” vs. “Sure, darling”: The role of status and gender stereotypes in preference for artificially intelligent agents. (Data collection in progress)
-* **Yang, H.** Fear of Robot Takeover: When do people prefer submissive vs. dominant artificially intelligent agents? (Data collection in progress)

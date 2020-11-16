@@ -15,7 +15,7 @@ Successful digital transformation isn’t just about the code. It’s also about
 ### Prior published work
 
 
-Moore, D. A., Smith, S. A., Minster, A., Mellers, B., Ungar, L. H., Tetlock, P., **Yang, H.**, & Tenney, E. R. (2016). **Confidence calibration in a multiyear geopolitical forecasting competition.** _Management Science_, published online: August 22, 2016. 
+Moore, D. A., Smith, S. A., Minster, A., Mellers, B., Ungar, L. H., Tetlock, P., **Yang, H.**, & Tenney, L. (2017). **Confidence Calibration in a Multiyear Geopolitical Forecasting Competition. Management Science**, 63(11), 3552-3565.    
 
 * [View on informsPubsOnline](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2525)	
 * [View on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3643605)

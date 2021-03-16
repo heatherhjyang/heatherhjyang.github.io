@@ -9,4 +9,4 @@ I am an organizational psychologist and PhD candidate at MIT Sloan School of Man
 
  
 
-I am currently on the job market for tenure-track faculty positions in management departments. I am particularly interested in positions in Asia, Europe, and North America. 
+Starting Fall 2021, I will be an incoming Assistant Professor of Management & Technology at Bocconi University in Milan, Italy.

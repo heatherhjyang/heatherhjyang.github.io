@@ -16,7 +16,7 @@
 title: Heather Yang
 email: heatherhjyang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD candidate, MIT Sloan
+  Assistant Professor, Bocconi University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://heatherhjyang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png

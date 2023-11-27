@@ -3,8 +3,6 @@ layout: post
 title: Contact
 ---
 
-Email: [hjy@mit.edu](mailto:hjy@mit.edu)
-
-Twitter: [@heatheryang](https://twitter.com/heatherhjyang)
+Email: [heather.yang@unibocconi.it](mailto:heather.yang@unibocconi.it)
 
 [LinkedIn](https://www.linkedin.com/in/heatheryang/)
